@@ -44,8 +44,7 @@
 ![Trophies](https://github-profile-trophy-1.vercel.app/?username=Lehuynh-Ngoc&theme=tokyonight&column=7&margin-w=15)
 
 ### 🔝 Top Public Repositories
-![Top Repos](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Lehuynh-Ngoc&layout=compact&theme=tokyonight&hide_border=false&langs_count=8)
-
+### 🔝 Top Public Repositories
 <p align="left">
   <a href="https://github.com/Lehuynh-Ngoc/Fake-News-Detection-Vietnamese">
     <img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=Lehuynh-Ngoc&repo=Fake-News-Detection-Vietnamese&theme=tokyonight" />
