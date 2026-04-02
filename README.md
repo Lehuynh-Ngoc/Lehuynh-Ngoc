@@ -43,9 +43,10 @@
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy-1.vercel.app/?username=Lehuynh-Ngoc&theme=tokyonight&column=7&margin-w=15)
 
-### 🔝 Top Contributed Repo
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=Lehuynh-Ngoc&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&cache_seconds=86400)
+### 🔝 Top Projects & Contributions
+![Top Repos](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Lehuynh-Ngoc&layout=compact&theme=tokyonight&hide_border=false)
 
+[![Featured Repo](https://github-readme-stats-one-bice.vercel.app/api/pin/?username=Lehuynh-Ngoc&repo=Fake-News-Detection-Vietnamese&theme=tokyonight)](https://github.com/Lehuynh-Ngoc/Fake-News-Detection-Vietnamese)
 ---
 ### 📈 Profile Stats
 ![Visitor Count](https://komarev.com/ghpvc/?username=Lehuynh-Ngoc&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS)
