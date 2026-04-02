@@ -45,13 +45,7 @@
 
 
 ### 🔝 Top Public Repositories
-
-<a href="https://github.com/Lehuynh-Ngoc">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lehuynh-Ngoc&repo=Fake-News-Detection-Vietnamese&theme=tokyonight" />
-</a>
-<a href="https://github.com/Lehuynh-Ngoc">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lehuynh-Ngoc&repo=HSR_DualAI_Chatbot_ESP32&theme=tokyonight" />
-</a>
+![Contributions](https://metrics.lecoq.io/Lehuynh-Ngoc?template=classic&base=repositories&base.repositories=20&config.timezone=Asia/Ho_Chi_Minh&theme=tokyonight)
 
 ---
 
