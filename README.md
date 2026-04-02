@@ -41,15 +41,15 @@
 ![Top Lang](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Lehuynh-Ngoc&theme=tokyonight&layout=compact)
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Lehuynh-Ngoc&theme=radical&v=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Lehuynh-Ngoc&theme=tokyonight&column=7&margin-w=15)
 
 ### ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=Lehuynh-Ngoc&limit=5&theme=dark&v=1)
+![Top Repo](https://github-contributor-stats.vercel.app/api?username=Lehuynh-Ngoc&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 ---
-![Visitor Count](https://visitcount.itsvg.in/api?id=Lehuynh-Ngoc&label=Views&color=0&icon=0&v=1)
+![Visitor Count](https://visitcount.itsvg.in/api?id=Lehuynh-Ngoc&label=Views&color=7aa2f7&icon=0)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
