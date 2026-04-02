@@ -39,6 +39,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lehuynh-Ngoc&theme=shadow_blue&hide_border=false)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lehuynh-Ngoc&show_icons=true&theme=shadow_blue)
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Lehuynh-Ngoc&theme=tokyonight&layout=compact)
+
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Lehuynh-Ngoc&theme=radical&v=1)
 
