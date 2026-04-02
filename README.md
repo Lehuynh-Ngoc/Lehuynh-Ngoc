@@ -43,7 +43,7 @@
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy-1.vercel.app/?username=Lehuynh-Ngoc&theme=tokyonight&column=7&margin-w=15)
 
-### 🔝 Top Public Repositories
+
 ### 🔝 Top Public Repositories
 <p align="left">
   <a href="https://github.com/Lehuynh-Ngoc/Fake-News-Detection-Vietnamese">
@@ -54,6 +54,7 @@
   </a>
 </p>
 ---
+
 ### 📈 Profile Stats
 ![Visitor Count](https://komarev.com/ghpvc/?username=Lehuynh-Ngoc&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
