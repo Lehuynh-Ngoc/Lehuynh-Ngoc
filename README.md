@@ -40,17 +40,15 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lehuynh-Ngoc&theme=tokyonight&hide_border=false)
 ![Top Lang](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Lehuynh-Ngoc&theme=tokyonight&layout=compact)
 
-## 🏆 Achievements
-![GitHub](https://img.shields.io/badge/GitHub-Profile-7aa2f7?style=for-the-badge&logo=github) ![Stars](https://img.shields.io/badge/Stars-Earned-bb9af7?style=for-the-badge&logo=github) 
-![Commits](https://img.shields.io/badge/Commits-Active-7dcfff?style=for-the-badge&logo=git)
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy-1.vercel.app/?username=Lehuynh-Ngoc&theme=tokyonight&column=7&margin-w=15)
 
-### ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### 🔝 Top Contributed Repo
+![Top Repo](https://github-contributor-stats.vercel.app/api?username=Lehuynh-Ngoc&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&cache_seconds=86400)
 
-### 🔝 Top Projects
-[![Project](https://github-readme-stats-one-bice.vercel.app/api/pin/?username=Lehuynh-Ngoc&repo=Fake-News-Detection-Vietnamese&theme=tokyonight)](https://github.com/Lehuynh-Ngoc/Fake-News-Detection-Vietnamese)
 ---
-![Visitor Count](https://visitcount.itsvg.in/api?id=Lehuynh-Ngoc&label=Views&color=7aa2f7&icon=0)
+### 📈 Profile Stats
+![Visitor Count](https://komarev.com/ghpvc/?username=Lehuynh-Ngoc&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
