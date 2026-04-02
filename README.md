@@ -43,10 +43,17 @@
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy-1.vercel.app/?username=Lehuynh-Ngoc&theme=tokyonight&column=7&margin-w=15)
 
-### 🔝 Top Projects & Contributions
-![Top Repos](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Lehuynh-Ngoc&layout=compact&theme=tokyonight&hide_border=false)
+### 🔝 Top Public Repositories
+![Top Repos](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Lehuynh-Ngoc&layout=compact&theme=tokyonight&hide_border=false&langs_count=8)
 
-[![Featured Repo](https://github-readme-stats-one-bice.vercel.app/api/pin/?username=Lehuynh-Ngoc&repo=Fake-News-Detection-Vietnamese&theme=tokyonight)](https://github.com/Lehuynh-Ngoc/Fake-News-Detection-Vietnamese)
+<p align="left">
+  <a href="https://github.com/Lehuynh-Ngoc/Fake-News-Detection-Vietnamese">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=Lehuynh-Ngoc&repo=Fake-News-Detection-Vietnamese&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Lehuynh-Ngoc/HSR_DualAI_Chatbot_ESP32">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=Lehuynh-Ngoc&repo=HSR_DualAI_Chatbot_ESP32&theme=tokyonight" />
+  </a>
+</p>
 ---
 ### 📈 Profile Stats
 ![Visitor Count](https://komarev.com/ghpvc/?username=Lehuynh-Ngoc&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS)
