@@ -47,7 +47,7 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=Lehuynh-Ngoc&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+[![Vietnamese Fake News Detection](https://github-readme-stats.vercel.app/api/pin/?username=Lehuynh-Ngoc&repo=FakeNewsDetection&theme=tokyonight)](https://github.com/Lehuynh-Ngoc)
 ---
 ![Visitor Count](https://visitcount.itsvg.in/api?id=Lehuynh-Ngoc&label=Views&color=7aa2f7&icon=0)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
