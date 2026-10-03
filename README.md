@@ -24,7 +24,7 @@ Mình là **Le Huynh Ngoc**, sinh viên ngành **Công nghệ thông tin** tại
 
 Mình đang tìm kiếm cơ hội **thực tập / vị trí Fresher** trong môi trường có người dẫn dắt, để đóng góp sớm và học hỏi từ dự án thực tế.
 
-**Ngoài giờ học:** nghiên cứu côn trùng học (myrmecology) và tối ưu hoá môi trường làm việc — từ Windows Terminal đến hiệu năng hệ thống.
+**Ngoài giờ học:** sở thích chăm nuôi thuỷ sinh (tép) và côn trùng (myrmecology), cùng thói quen tối ưu hoá môi trường làm việc — từ Windows Terminal đến hiệu năng hệ thống.
 
 <table>
 <tr>
@@ -194,6 +194,6 @@ Các dự án khác: **Herta Chatbot** (AI) · **OpenSource** — xem tất cả
 
 <br/>
 
-[![Visitors](https://komarev.com/ghpvc/?username=Lehuynh-Ngoc&color=34E7E4&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Lehuynh-Ngoc)
+[![Visitors](https://visitor-badge.laobi.icu/badge?username=Lehuynh-Ngoc&color=34E7E4&label=PROFILE+VIEWS)](https://github.com/Lehuynh-Ngoc)
 
 </div>
