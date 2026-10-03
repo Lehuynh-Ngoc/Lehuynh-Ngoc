@@ -1,65 +1,135 @@
-# 💫 About Me:
-### 🔭 I’m currently working on
-* **Dự án nhận diện tin giả (Vietnamese Fake News Detection):** Sử dụng NLP và các mô hình học máy để phân loại tin tức tiếng Việt.
-* **chatbot_AI:** Phát triển chatbot AI hỗ trợ đa chức năng.
-* **Wedo:** Hệ thống quản lý lịch trình và tài chính cá nhân kết hợp AI đa nền tảng.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Lehuynh-Ngoc/Lehuynh-Ngoc/main/assets/header.gif" width="100%" alt="Le Huynh Ngoc — Fresher Developer"/>
+</div>
 
-### 👯 I’m looking to collaborate on
-* Các dự án mã nguồn mở về **AI/Machine Learning** hoặc ứng dụng công nghệ **Node.js** và **.NET** vào thực tế.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=34E7E4&center=true&vCenter=true&width=640&lines=Sinh+viên+CNTT+tại+HUTECH;Fresher+Developer;AI+%26+Web+Applications" alt="Sinh viên CNTT tại HUTECH · Fresher Developer · AI & Web Applications"/>
+</div>
 
-### 🤝 I’m looking for help with
-* Tối ưu hóa mô hình Deep Learning và xử lý dữ liệu quy mô lớn với **scikit-learn** và **SQL Server**.
+<div align="center">
 
-### 🌱 I’m currently learning
-* 🚀 Nâng cao kỹ năng lập trình hệ thống với **C/C++**.
-* 🌐 Làm chủ hệ sinh thái **Node.js** và phát triển ứng dụng với **.NET**.
-* 🤖 Nghiên cứu sâu về **Machine Learning** để tối ưu hóa việc phân tích dữ liệu.
+[![Open to Work](https://img.shields.io/badge/Open_to-Work-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](mailto:quoclam2278@gmail.com)
+[![Email](https://img.shields.io/badge/Email-quoclam2278%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quoclam2278@gmail.com)
+[![HUTECH](https://img.shields.io/badge/HUTECH-Công%20nghệ%20thông%20tín-FF6B00?style=for-the-badge&logoColor=white)](#học-vấn)
 
-### 💬 Ask me about
-* **Programming Languages:** `C/C++`, `C#`, `Python`.
-* **Databases & Tools:** `MSSQL`, `MySQL`, `SQLite`, `Git/GitHub`.
-* **Infrastructure & Design:** Quản trị mạng `Cisco`, `PowerShell`, thiết kế trên `Canva`.
-* **Special Interests:** Myrmecology (nuôi kiến), Isopods, tối ưu hóa hiệu suất Minecraft, lập chiến lược cho HSR và A9.
+</div>
 
-### ⚡ Fun fact
-* Ngoài việc "đánh vật" với code, mình là một **Ant-keeper** chính hiệu với bộ sưu tập hơn 45 chi kiến khác nhau. Mình cũng dành khá nhiều thời gian để tinh chỉnh Windows Terminal và tối ưu hóa modpack Minecraft.
+## Về mình
 
+Mình là **Le Huynh Ngoc**, sinh viên ngành **Công nghệ thông tin** tại **HUTECH**. Mình viết code để giải quyết vấn đề thật: từ hệ thống **phát hiện tin tức giả tiếng Việt** (NLP), chatbot AI, cho đến các tiện ích tự động hoá nhỏ gọn — tất cả đều mở công khai trên GitHub.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lehuynhngoc2886) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Lehuynh-Ngoc) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/huynh_ngoc21) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Anh-Ba-NHUỐC) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:quoclam2278@gmail.com) 
+Mình đang tìm kiếm cơ hội **thực tập / vị trí Fresher** trong môi trường có người dẫn dắt, để đóng góp sớm và học hỏi từ dự án thực tế.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
+<table>
+<tr>
+<td width="33%" align="center" bgcolor="#0D1322">
+<h3>🎯 Fresher Developer</h3>
+<p>C#, .NET, Node.js<br/>Web application</p>
+</td>
+<td width="33%" align="center" bgcolor="#0D1322">
+<h3>🤖 AI / Machine Learning</h3>
+<p>NLP, scikit-learn<br/>Xử lý ngôn ngữ tiếng Việt</p>
+</td>
+<td width="33%" align="center" bgcolor="#0D1322">
+<h3>⚙️ Tự động hoá</h3>
+<p>PowerShell, Python<br/>Tiện ích văn phòng</p>
+</td>
+</tr>
+</table>
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=Lehuynh-Ngoc&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lehuynh-Ngoc&theme=tokyonight&hide_border=false)
-![Top Lang](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Lehuynh-Ngoc&theme=tokyonight&layout=compact)
+## Kỹ năng
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy-1.vercel.app/?username=Lehuynh-Ngoc&theme=tokyonight&column=7&margin-w=15)
+```text
+NGÔN NGỮ      C / C++   ▓▓▓▓░░░░░░    C#        ▓▓▓▓░░░░░░
+               Python    ▓▓▓▓▓░░░░░    JS / TS   ▓▓▓░░░░░░░
 
----
+WEB & BACKEND  Node.js   ▓▓▓░░░░░░░    .NET      ▓▓▓░░░░░░░
 
-### 📈 Profile Stats
-![Visitor Count](https://komarev.com/ghpvc/?username=Lehuynh-Ngoc&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+DATA & ML      scikit    ▓▓▓░░░░░░░    NLP       ▓▓▓░░░░░░░
+               SQL       ▓▓▓▓░░░░░░    (MSSQL · MySQL · SQLite)
 
-<!--
-**Lehuynh-Ngoc/Lehuynh-Ngoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CÔNG CỤ        Git       ▓▓▓▓▓░░░░░    PowerShell ▓▓▓▓░░░░░░
+               Cisco     ▓▓▓░░░░░░░    Canva      ▓▓▓░░░░░░░
+```
 
-Here are some ideas to get you started:
+Đang học: **C/C++ nâng cao**, hệ sinh thái **Node.js** & **.NET**, và tối ưu mô hình **Machine Learning**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Dự án nổi bật
+
+<table>
+<tr>
+<td width="33%" valign="top" bgcolor="#0D1322">
+<h3>📰 Fake News Detect</h3>
+<p>Hệ thống phát hiện và phân loại tin tức giả tiếng Việt, phục vụ kiểm chứng thông tin trên mạng xã hội.</p>
+<sub><code>TypeScript</code> <code>NLP</code> <code>ML</code></sub>
+<br/><br/>
+<a href="https://github.com/Lehuynh-Ngoc/Fake_News_Detect"><b>Xem repo →</b></a>
+</td>
+<td width="33%" valign="top" bgcolor="#0D1322">
+<h3>💬 Herta Chatbot</h3>
+<p>Chatbot AI đa chức năng, hỗ trợ tương tác tự nhiên với người dùng.</p>
+<sub><code>JavaScript</code> <code>Chatbot</code></sub>
+<br/><br/>
+<a href="https://github.com/Lehuynh-Ngoc/Herta_Chatbot"><b>Xem repo →</b></a>
+</td>
+<td width="33%" valign="top" bgcolor="#0D1322">
+<h3>📄 Word Format Auto-Fixer</h3>
+<p>Tiện ích tự động định dạng và làm chuẩn tài liệu Word theo quy tắc có sẵn.</p>
+<sub><code>Python</code> <code>Automation</code></sub>
+<br/><br/>
+<a href="https://github.com/Lehuynh-Ngoc/WORD-FORMAT-AUTO-FIXER"><b>Xem repo →</b></a>
+</td>
+</tr>
+</table>
+
+Đang phát triển: **Wedo** (quản lý lịch trình & tài chính cá nhân kết hợp AI).
+
+## Học vấn
+
+- **HUTECH** — Cử nhân Công nghệ thông tin · *10/2023 — nay*
+
+## Hoạt động trên GitHub
+
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=Lehuynh-Ngoc&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true" alt="GitHub stats"/></td>
+<td><img src="https://streak-stats.demolab.com?user=Lehuynh-Ngoc&theme=tokyonight&background=0D1117&border=30363D" alt="GitHub streak"/></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lehuynh-Ngoc&layout=compact&theme=tokyonight&hide_border=false" alt="Top languages"/></td>
+<td><img src="https://ghchart.rshah.org/Lehuynh-Ngoc" alt="Biểu đồ đóng góp GitHub"/></td>
+</tr>
+</table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lehuynh-Ngoc/Lehuynh-Ngoc/output/github-contribution-grid-snake-dark.gif">
+  <img src="https://raw.githubusercontent.com/Lehuynh-Ngoc/Lehuynh-Ngoc/output/github-contribution-grid-snake.gif" alt="Rắn đóng góp GitHub"/>
+</picture>
+
+## Liên hệ
+
+Ưu tiên trao đổi qua **email** — mình phản hồi trong vòng 24 giờ.
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-quoclam2278%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quoclam2278@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-Lehuynh--Ngoc-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Lehuynh-Ngoc)
+[![Discord](https://img.shields.io/badge/Discord-lehuynhngoc2886-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/lehuynhngoc2886)
+
+<details>
+<summary>Mạng xã hội khác</summary>
+<br/>
+
+[![Instagram](https://img.shields.io/badge/Instagram-huynh__ngoc21-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/huynh_ngoc21)
+[![TikTok](https://img.shields.io/badge/TikTok-@Anh--Ba--NHUỐC-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@Anh-Ba-NHUỐC)
+
+</details>
+
+<br/>
+
+[![Visitors](https://komarev.com/ghpvc/?username=Lehuynh-Ngoc&color=34E7E4&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Lehuynh-Ngoc)
+
+</div>
