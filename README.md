@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=24&duration=2600&pause=900&color=34E7E4&center=true&vCenter=true&width=680&lines=Sinh%20vi%C3%AAn%20CNTT%20t%E1%BA%A3i%20HUTECH;Fresher%20Developer;AI%20%26%20Web%20Applications" alt="Sinh viên CNTT tại HUTECH · Fresher Developer · AI & Web Applications"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=24&duration=2600&pause=900&color=34E7E4&center=true&vCenter=true&width=680&lines=Sinh%20vi%C3%AAn%20CNTT%20t%E1%BA%A1i%20HUTECH;Fresher%20Developer;AI%20%26%20Web%20Applications" alt="Sinh viên CNTT tại HUTECH · Fresher Developer · AI & Web Applications"/>
 </div>
 
 <div align="center">
@@ -116,10 +116,10 @@ Mình đang tìm kiếm cơ hội **thực tập / vị trí Fresher** trong mô
 <p><a href="https://github.com/Lehuynh-Ngoc/Fake_News_Detect"><b>Xem repo →</b></a></p>
 </td>
 <td width="33%" valign="top" bgcolor="#0D1322" cellpadding="14">
-<h3><a href="https://github.com/Lehuynh-Ngoc/Herta_Chatbot">Herta Chatbot</a></h3>
-<p>Chatbot AI đa chức năng, hỗ trợ tương tác tự nhiên với người dùng.</p>
-<p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/></p>
-<p><a href="https://github.com/Lehuynh-Ngoc/Herta_Chatbot"><b>Xem repo →</b></a></p>
+<h3>🗓️ Wedo</h3>
+<p>Hệ thống quản lý lịch trình và tài chính cá nhân kết hợp AI, đa nền tảng.</p>
+<p><img src="https://img.shields.io/badge/Developing-8B5CF6?style=flat-square&logo=rocket&logoColor=white" alt="Đang phát triển"/></p>
+<p><b>Sắp ra mắt</b></p>
 </td>
 <td width="33%" valign="top" bgcolor="#0D1322" cellpadding="14">
 <h3><a href="https://github.com/Lehuynh-Ngoc/WORD-FORMAT-AUTO-FIXER">Word Auto-Fixer</a></h3>
@@ -130,7 +130,7 @@ Mình đang tìm kiếm cơ hội **thực tập / vị trí Fresher** trong mô
 </tr>
 </table>
 
-Đang phát triển: **Wedo** — quản lý lịch trình &amp; tài chính cá nhân kết hợp AI. Xem tất cả repo [tại đây](https://github.com/Lehuynh-Ngoc?tab=repositories).
+Các dự án khác: **Herta Chatbot** (AI) · **OpenSource** — xem tất cả repo [tại đây](https://github.com/Lehuynh-Ngoc?tab=repositories).
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Lehuynh-Ngoc/Lehuynh-Ngoc/main/assets/divider.svg" width="100%" alt=""/>
@@ -138,7 +138,16 @@ Mình đang tìm kiếm cơ hội **thực tập / vị trí Fresher** trong mô
 
 ## Học vấn
 
-- **HUTECH** — Cử nhân Công nghệ thông tin · *10/2023 — nay*
+<table>
+<tr>
+<td bgcolor="#0D1322" cellpadding="16">
+<h3>🎓 HUTECH</h3>
+<p><b>Ngành:</b> Công nghệ thông tin · <b>Chuyên ngành:</b> Máy học và Ứng dụng</p>
+<p><b>Thời gian:</b> 10/2023 — 10/2027 (dự kiến tốt nghiệp)</p>
+<p><b>GPA:</b> <code>3.63 / 4.0</code></p>
+</td>
+</tr>
+</table>
 
 Ngoài việc code: **ant-keeper** với hơn 45 chi kiến khác nhau, mê tinh chỉnh Windows Terminal và tối ưu modpack Minecraft.
 
