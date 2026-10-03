@@ -188,12 +188,12 @@ Các dự án khác: **Herta Chatbot** (AI) · **OpenSource** — xem tất cả
 <br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-huynh__ngoc21-161E2D?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/huynh_ngoc21)
-[![TikTok](https://img.shields.io/badge/TikTok-@Anh-Ba-NHUOC-161E2D?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@Anh-Ba-NHU%E1%BB%90C)
+[![TikTok](https://img.shields.io/badge/TikTok-@Anh--Ba--NHUOC-161E2D?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@Anh-Ba-NHU%E1%BB%90C)
 
 </details>
 
 <br/>
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?username=Lehuynh-Ngoc&color=34E7E4&label=PROFILE+VIEWS)](https://github.com/Lehuynh-Ngoc)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Lehuynh-Ngoc&color=34E7E4&label=PROFILE+VIEWS)](https://github.com/Lehuynh-Ngoc)
 
 </div>
