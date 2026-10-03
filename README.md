@@ -61,10 +61,6 @@ Mình đang tìm kiếm cơ hội **thực tập / vị trí Fresher** trong mô
 <td bgcolor="#0D1322"><b>Fake News Detect</b> — hệ thống phát hiện &amp; phân loại tin giả tiếng Việt</td>
 </tr>
 <tr>
-<td width="110" align="center" bgcolor="#0D1322"><code>04/2026</code></td>
-<td bgcolor="#0D1322"><b>Herta Chatbot</b> — chatbot AI đa chức năng</td>
-</tr>
-<tr>
 <td width="110" align="center" bgcolor="#0D1322"><code>07/2026</code></td>
 <td bgcolor="#0D1322"><b>Word Format Auto-Fixer</b> — tiện ích tự động định dạng tài liệu</td>
 </tr>
