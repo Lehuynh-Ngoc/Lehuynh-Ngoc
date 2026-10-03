@@ -24,6 +24,8 @@ Mình là **Le Huynh Ngoc**, sinh viên ngành **Công nghệ thông tin** tại
 
 Mình đang tìm kiếm cơ hội **thực tập / vị trí Fresher** trong môi trường có người dẫn dắt, để đóng góp sớm và học hỏi từ dự án thực tế.
 
+**Ngoài giờ học:** nghiên cứu côn trùng học (myrmecology) và tối ưu hoá môi trường làm việc — từ Windows Terminal đến hiệu năng hệ thống.
+
 <table>
 <tr>
 <td width="33%" align="center" bgcolor="#0D1322">
@@ -145,8 +147,6 @@ Các dự án khác: **Herta Chatbot** (AI) · **OpenSource** — xem tất cả
 </tr>
 </table>
 
-Ngoài việc code: **ant-keeper** với hơn 45 chi kiến khác nhau, mê tinh chỉnh Windows Terminal và tối ưu modpack Minecraft.
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Lehuynh-Ngoc/Lehuynh-Ngoc/main/assets/divider.svg" width="100%" alt=""/>
 </div>
@@ -188,12 +188,12 @@ Ngoài việc code: **ant-keeper** với hơn 45 chi kiến khác nhau, mê tinh
 <br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-huynh__ngoc21-161E2D?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/huynh_ngoc21)
-[![TikTok](https://img.shields.io/badge/TikTok-Anh-Ba-NHU%E1%BB%90C-161E2D?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@Anh-Ba-NHU%E1%BB%90C)
+[![TikTok](https://img.shields.io/badge/TikTok-@Anh-Ba-NHUOC-161E2D?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@Anh-Ba-NHU%E1%BB%90C)
 
 </details>
 
 <br/>
 
-[![Visitors](https://komarev.com/ghpvc/?username=Lehuynh-Ngoc&color=34E7E4&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Lehuynh-Ngoc)
+[![Visitors](https://komarev.com/ghpvc/?username=Lehuynh-Ngoc&color=34E7E4&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Lehuynh-Ngoc)
 
 </div>
